@@ -1,0 +1,15 @@
+/* Jumbotron — Hero Section */
+.jumbotron {
+  padding-top: 6rem;         /* beri ruang untuk navbar fixed */
+  background-color: #83e2ff; /* biru muda cerah */
+}
+
+/* Project Section */
+#project {
+  background-color: #f3ace7; /* sama dengan jumbotron */
+}
+
+/* Semua section — padding atas */
+section {
+  padding-top: 6rem; /* agar konten tidak tertutup navbar */
+}
